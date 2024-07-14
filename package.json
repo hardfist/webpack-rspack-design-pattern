@@ -1,0 +1,19 @@
+{
+  "name": "webpack-rspack-design-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.5.0",
+  "engines": {
+    "pnpm": "9.5.0"
+  },
+  "dependencies": {
+    "@biomejs/biome": "^1.8.3"
+  }
+}
