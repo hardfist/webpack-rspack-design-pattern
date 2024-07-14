@@ -11,6 +11,7 @@
   "devDependencies": {
     "webpack": "catalog:",
     "webpack-cli": "catalog:",
-    "@pattern/config": "workspace:*"
+    "@pattern/config": "workspace:*",
+    "webpack-sources": "catalog:"
   }
 }

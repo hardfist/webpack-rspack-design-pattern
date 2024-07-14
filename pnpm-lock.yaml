@@ -12,6 +12,9 @@ catalogs:
     webpack-cli:
       specifier: 5.1.4
       version: 5.1.4
+    webpack-sources:
+      specifier: 3.2.3
+      version: 3.2.3
 
 importers:
 
@@ -41,6 +44,9 @@ importers:
       webpack-cli:
         specifier: 'catalog:'
         version: 5.1.4(webpack@5.93.0)
+      webpack-sources:
+        specifier: 'catalog:'
+        version: 3.2.3
 
 packages:
 
