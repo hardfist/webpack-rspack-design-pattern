@@ -1,0 +1,18 @@
+{
+  "name": "@pattern/basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "webpack": "catalog:",
+    "webpack-cli": "catalog:",
+    "@pattern/config": "workspace:*",
+    "webpack-sources": "catalog:"
+  }
+}
