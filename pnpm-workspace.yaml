@@ -7,5 +7,8 @@ catalog:
   webpack: 5.93.0
   webpack-cli: 5.1.4
   webpack-sources: 3.2.3
-  "@rspack/core": 1.0.0-alpha.3
-  "@rspack/cli": 1.0.0-alpha.3
+  webpack-dev-server: 5.1.0
+  html-webpack-plugin: 5.6.0
+  "@rspack/core": 1.0.4
+  "@rspack/cli": 1.0.4
+
