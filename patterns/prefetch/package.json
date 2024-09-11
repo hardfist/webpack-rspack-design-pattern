@@ -5,7 +5,7 @@
   "scripts": {
     "build": "NODE_ENV=production webpack",
     "dev": "NODE_ENV=development webpack serve",
-    "rspack": ""
+    "dev:rspack": "NODE_ENV=development rspack serve -c webpack.config.cjs"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +17,8 @@
   "devDependencies": {
     "webpack": "catalog:",
     "webpack-cli": "catalog:",
+    "@rspack/cli": "catalog:",
+    "@rspack/core": "catalog:",
     "@pattern/config": "workspace:*",
     "webpack-sources": "catalog:",
     "webpack-dev-server": "catalog:",
